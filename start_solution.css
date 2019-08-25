@@ -1,0 +1,56 @@
+body{background-image:url(laptop_room_on_the_desk_keyboard_mouse_apple_window_interior_73963_1920x1080.jpg);
+    height: 100px;
+background-repeat: no-repeat;
+    background-position:center;}
+
+.header{color:black;    
+font-style: oblique;
+}
+
+.list-inline{font-size: 1cm;
+float: right;
+    }
+
+.kee{border-style: solid;
+    border-color:darkgrey;
+    border-width: 3px 3px 3px 3px;
+clear: both;
+}
+    
+.bee{ position: static;
+    padding: 70px;
+margin: 60px;  
+font-size: 1cm;
+text-decoration-color: black;
+}
+.vee
+{ font-size: 0.6cm;
+    padding: 40px;
+    margin: 60px;
+}
+
+
+.tee
+{border-style:solid;
+    border-width: 3px 3px;
+    width: 1250px;
+    height: 160px
+    
+}
+span{font-size: 0.7cm;
+padding: 20px;
+margin: 10px}   
+
+.aq
+{
+    display:inline-block;
+    list-style: none;
+}
+
+.ber
+{display: inline-block;
+    list-style: none
+    
+}
+
+
