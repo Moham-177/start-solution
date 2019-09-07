@@ -1,0 +1,148 @@
+<!Doctype html>
+<html lang="en">
+ <head>  
+     <meta charset="utf-8">
+     <meta name="description" content="Network solutions · Application development · Social Media solutions">
+     <meta name="keywords" content="web desigen.mobile application">
+     <title>start-solution.net</title>
+     <link rel="stylesheet" href="css/box.css">
+ </head>  
+  <body>
+         
+          <!--start header-->
+          <header>
+          <h1  style="font-weight: bold" >
+              <span> s t a r t</span> <br> solution</h1>
+              
+              <nav style="float: right">
+                  <ul >
+                  <li><a href="#">home</a>    </li>|
+                      <li> <a href="#">about</a>  </li>|
+                      <li><a href="#">services</a> </li>|
+                      <li><a href="#">approach</a>   </li>|
+                      <li><a href="#">contact us</a>   </li>|
+                      
+                  </ul>
+              </nav>
+          
+          </header>
+      <!--end header-->
+      
+      <!--start section1 -->
+    <section style="text-align: center;background-color: lightsteelblue;height: 50%">
+        
+        <div class="section list1">
+        <button style="width: 200px;padding: 32px 20px"><a href="#">research</a>   </button>
+        
+        <button style="width: 200px;padding: 32px 20px"><a href="#">architect</a>   </button>
+            
+        <button style="width: 200px;padding: 32px 20px"><a href="#">design</a>   </button>
+            
+            
+        <button style="width: 200px;padding: 32px 20px"><a href="#">implement</a>   </button>
+            
+            
+        <button style="width: 200px;padding: 32px 20px"><a href="#">test</a>   </button>
+            
+        </div>
+      
+      </section>
+      
+    <!--end section1-->  
+      
+    <!--start section2-->
+      <section style="background-color: cornflowerblue; height: 80%">
+        <span style="font-size: 25px">servies</span><hr>
+          <div class="image list">
+              
+              <ul>    
+              <li>
+                  <a href="#"><img src="image/Web-Design-Blog-Image.jpg" width="150px">web& design</a>
+                  </li>
+              
+              <li>
+              <a href="#">
+                  <img src="image/networking-solutions-services-500x500.jpg" width="150px">network solution</a></li>
+              <li>
+              <a href="#" >
+              <img src="image/F1FC6D09-9C30-44CE-9E40-4DC028C830FF.jpeg" width="150px">appliction development</a></li>
+                  
+              <li>
+              <a href="#" >
+              <img src="image/social-media-2636256_1280-144x144-0_0-1280_1280.jpg" width="150px">
+              social media solution</a>
+                  </li>
+              </ul>
+      </div>
+      
+      </section>
+      <!--end section2-->
+      
+      <!--start section3-->
+      <section style="background-color: lightsteelblue;height: 80%">
+        some of our recent work<hr>  
+          <div class="img list2">
+          <ul>
+              <li>  
+          <a href="#" ><img src="image/Screenshot_7.png" width="300px"> sallidar:live like Astar</a><br>
+          
+          <a href="#"> <img src="image/Screenshot_8.png" width="300px">jamaica today:the home of jamaican entertainment </a>
+              
+              <a href="#"><img src="image/Screenshot_9.png " width="300px">trend green knowledge:Be green  </a>
+            </li>
+          </ul>
+          
+          </div>
+      
+      </section>
+      <!--end section3-->
+      
+      <!--start footer-->
+      
+      <footer style="background-color: ghostwhite;">
+          
+      <div style="padding: 30px 20px  ">
+          <ul>
+         <li style="font-size: 40px">s t a r t <br>solution</li> 
+              
+            <li style="font-size:25px ">+201277493229</li>  
+              
+          <li style="font-size: 25px"> wahranst,from altyran ,nasr city,cairo,egypt</li>
+          </ul>
+          
+          
+          <div class="footer button" style="text-align: center">
+              <button>   <a  href="#">say hello</a></button>
+          </div>   
+          
+          <div class="footer of button list " style="text-align: right;">
+              <ul>
+              <a href="https://www.facebook.com" > <img src="image/fb-logo.png" width="50px"> </a> 
+                  
+              <a href="https://www.twiter.com"> <img src="image/Twitter_alt.png" width="50px">   </a> 
+                  
+                  <a href="https://www.instgram.com"> <img src="image/icon-instagram-black.png" width="50px">   </a>
+                  
+                  <a href="https://www.linkden.com"><img src="image/61109.png" width="50px">   </a>
+                  
+              </ul>
+              
+          
+          
+          </div>
+          
+          
+          </div>
+          
+    
+          
+          
+      </footer>
+      <!--end footer-->
+      
+      
+      
+    
+</body>
+
+</html>
